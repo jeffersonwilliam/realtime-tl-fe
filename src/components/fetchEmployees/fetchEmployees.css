@@ -1,0 +1,5 @@
+.display-all-data {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+}
